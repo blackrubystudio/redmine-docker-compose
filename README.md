@@ -26,5 +26,5 @@ rake redmine:plugins:migrate RAILS_ENV=production
 
 ## TODO
 - [ ] certbot crontab in docker-compose
-- [ ] improve security f nginx config
+- [ ] improve security nginx config
 - [ ] email setup
